@@ -1,0 +1,45 @@
+.Discover {
+    font-family: Verdana;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.travelguide {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.excursion {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+.copyright {
+    text-align: right;
+    color: gray;
+}
+
+.links {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+
+.video {
+    text-align: center;
+}
+
+.camping {
+    text-align: center;
+}
+.phone-icon {
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
